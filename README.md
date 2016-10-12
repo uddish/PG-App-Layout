@@ -42,6 +42,11 @@ MAPS->
 
 ![alt text](screenshots/maps.png "Maps")
 
+EDIT PG->
+A user can edit his/her PG
+
+![alt text](screenshots/editpg.png "Edit PG")
+
 
 NAVIGATION DRAWER ->
 
