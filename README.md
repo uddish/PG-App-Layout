@@ -38,6 +38,10 @@ PGs can be Filtered by selecting the appropriate one from the toolbar.
 
 ![alt text](screenshots/filter.png "Filter")   
 
+MAPS->
+
+![alt text](screenshots/maps.png "Maps")
+
 
 NAVIGATION DRAWER ->
 
